@@ -1,0 +1,23 @@
+# Віртуальне середовище
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Конфігурація IDE
+.idea/
+.vscode/
+
+# Секретні файли
+.env
+
+# Логи
+*.log
+
+# База даних SQLite
+db.sqlite3
+
+# Статичні файли
+staticfiles/
+
